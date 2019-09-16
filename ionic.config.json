@@ -1,5 +1,8 @@
 {
   "name": "ionic-booking-app",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
   "type": "angular"
 }
